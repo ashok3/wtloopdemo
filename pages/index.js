@@ -7,14 +7,14 @@ export default function Home() {
     <div className="container">
       <Head>
        <script type="text/javascript" src="/post.js"></script>
-        <title>Next.js Starter!</title>
+        <title>WT Loop First Class Lounge Demo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to the First Class Lounge!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+           You have successfully scanned the passenger!</code>
         </p>
       </main>
 
