@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to the First Class Lounge!" />
         <p className="description">
-           You have successfully scanned the passenger!</code>
+           You have successfully scanned the passenger!
         </p>
       </main>
 
